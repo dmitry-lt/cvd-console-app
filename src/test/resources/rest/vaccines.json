@@ -1,0 +1,26 @@
+{
+  "France": {
+    "All": {
+      "administered": 153822238,
+      "people_vaccinated": 52410672,
+      "people_partially_vaccinated": 53978343,
+      "country": "France",
+      "population": 64979548,
+      "sq_km_area": 551500,
+      "life_expectancy": "78.8",
+      "elevation_in_meters": 375,
+      "continent": "Europe",
+      "abbreviation": "FR",
+      "location": "Western Europe",
+      "iso": 250,
+      "capital_city": "Paris",
+      "updated": "2022/03/23 00:00:00+00"
+    },
+    "French Guiana": {
+      "administered": 221844,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2022/03/23 00:00:00+00"
+    }
+  }
+}

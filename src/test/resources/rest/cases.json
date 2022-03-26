@@ -1,0 +1,30 @@
+{
+  "France": {
+    "All": {
+      "confirmed": 23812253,
+      "recovered": 123,
+      "deaths": 138212,
+      "country": "France",
+      "population": 64979548,
+      "sq_km_area": 551500,
+      "life_expectancy": "78.8",
+      "elevation_in_meters": 375,
+      "continent": "Europe",
+      "abbreviation": "FR",
+      "location": "Western Europe",
+      "iso": 250,
+      "capital_city": "Paris",
+      "lat": "46.2276",
+      "long": "2.2137",
+      "updated": "2022-03-24 04:20:43"
+    },
+    "French Guiana": {
+      "lat": "4.0",
+      "long": "-53.0",
+      "confirmed": 78326,
+      "recovered": 0,
+      "deaths": 394,
+      "updated": "2022-03-24 04:20:43"
+    }
+  }
+}
